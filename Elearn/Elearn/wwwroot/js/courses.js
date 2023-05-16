@@ -133,3 +133,15 @@ $(document).ready(function()
 	}
 
 });
+
+$(document).ready(function () {
+
+
+	let btn = $(".show-more-btn")
+
+	$(document).on("click", ".show-more-btn", function () {
+
+
+		console.log("aaaaa")
+	})
+});
