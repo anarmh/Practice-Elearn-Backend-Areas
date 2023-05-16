@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Elearn.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Elearn.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\about_1.jpg",
+      "PackagePath": "staticwebassets\\images\\about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_1.jpg",
+      "PackagePath": "staticwebassets\\images\\course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_2.jpg",
+      "PackagePath": "staticwebassets\\images\\course_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_3.jpg",
+      "PackagePath": "staticwebassets\\images\\course_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_4.jpg",
+      "PackagePath": "staticwebassets\\images\\course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_5.jpg",
+      "PackagePath": "staticwebassets\\images\\course_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_6.jpg",
+      "PackagePath": "staticwebassets\\images\\course_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_7.jpg",
+      "PackagePath": "staticwebassets\\images\\course_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_8.jpg",
+      "PackagePath": "staticwebassets\\images\\course_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_9.jpg",
+      "PackagePath": "staticwebassets\\images\\course_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_author_2.jpg",
+      "PackagePath": "staticwebassets\\images\\course_author_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_author_3.jpg",
+      "PackagePath": "staticwebassets\\images\\course_author_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\elearn.jpg",
+      "PackagePath": "staticwebassets\\images\\elearn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\featured.jpg",
+      "PackagePath": "staticwebassets\\images\\featured.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\featured_author.jpg",
+      "PackagePath": "staticwebassets\\images\\featured_author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\home_logo.png",
+      "PackagePath": "staticwebassets\\images\\home_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\index.jpg",
+      "PackagePath": "staticwebassets\\images\\index.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_1.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_2.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_3.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_4.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_1.jpg",
+      "PackagePath": "staticwebassets\\images\\news_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_2.jpg",
+      "PackagePath": "staticwebassets\\images\\news_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_3.jpg",
+      "PackagePath": "staticwebassets\\images\\news_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_4.jpg",
+      "PackagePath": "staticwebassets\\images\\news_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_5.jpg",
+      "PackagePath": "staticwebassets\\images\\news_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_6.jpg",
+      "PackagePath": "staticwebassets\\images\\news_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_7.jpg",
+      "PackagePath": "staticwebassets\\images\\news_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\play_big.png",
+      "PackagePath": "staticwebassets\\images\\play_big.png"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_1.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_2.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_3.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_4.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_5.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_6.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\about.js",
+      "PackagePath": "staticwebassets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\courses.js",
+      "PackagePath": "staticwebassets\\js\\courses.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\news.js",
+      "PackagePath": "staticwebassets\\js\\news.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\TimelineMax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\TimelineMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\animation.gsap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\animation.gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\parallax-js-master\\parallax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\parallax-js-master\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\scrollmagic\\ScrollMagic.min.js",
+      "PackagePath": "staticwebassets\\plugins\\scrollmagic\\ScrollMagic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\Youtube.min.js",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\Youtube.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\video-js.css",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\video-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\video.min.js",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\about.css",
+      "PackagePath": "staticwebassets\\styles\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\about_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\about_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\popper.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\contact.css",
+      "PackagePath": "staticwebassets\\styles\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\contact_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\contact_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\courses.css",
+      "PackagePath": "staticwebassets\\styles\\courses.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\courses_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\courses_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\main_styles.css",
+      "PackagePath": "staticwebassets\\styles\\main_styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\news.css",
+      "PackagePath": "staticwebassets\\styles\\news.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\news_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\news_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\responsive.css",
+      "PackagePath": "staticwebassets\\styles\\responsive.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Elearn.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Elearn.props",
+      "PackagePath": "build\\Elearn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Elearn.props",
+      "PackagePath": "buildMultiTargeting\\Elearn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Elearn.props",
+      "PackagePath": "buildTransitive\\Elearn.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
