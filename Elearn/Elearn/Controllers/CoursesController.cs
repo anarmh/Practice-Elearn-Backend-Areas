@@ -15,9 +15,9 @@ namespace Elearn.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            IEnumerable<CourseAuthor> courseAuthors = await _context.CourseAuthors.Where(m => !m.SoftDelete).Take(4).ToListAsync();
-            IEnumerable<Course> courses = await _context.Courses.Include(m => m.CourseImages).Where(m => !m.SoftDelete).Take(4).ToListAsync();
-            IEnumerable<CourseImage> courseImages = await _context.CourseImages.Where(m => !m.SoftDelete).Take(4).ToListAsync();
+            IEnumerable<CourseAuthor> courseAuthors = await _context.CourseAuthors.Where(m => !m.SoftDelete).ToListAsync();
+            IEnumerable<Course> courses = await _context.Courses.Include(m => m.CourseImages).Where(m => !m.SoftDelete).ToListAsync();
+            IEnumerable<CourseImage> courseImages = await _context.CourseImages.Where(m => !m.SoftDelete).ToListAsync();
 
             CourseVM model = new()
             {

@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Elearn.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class SliderController : Controller
     {
         private readonly AppDbContext _context;
@@ -15,7 +16,7 @@ namespace Elearn.Areas.Admin.Controllers
             _context = context;
         }
 
-        [Area("Admin")]
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
             List<SliderVM> listSlider = new();
@@ -38,7 +39,7 @@ namespace Elearn.Areas.Admin.Controllers
             return View(listSlider);
         }
 
-        [Area("Admin")]
+        [HttpGet]
         public async Task<IActionResult> Detail(int? id)
         {
             if (id is null) return BadRequest();

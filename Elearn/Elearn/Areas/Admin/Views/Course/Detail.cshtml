@@ -1,0 +1,22 @@
+﻿@model CourseDetailVM
+@{
+    ViewData["Title"] = "Detail";
+}
+
+
+<div class="container-fluid my-5">
+
+       <div class="row">
+           <div class="col-6">
+            <img src="~/images/@Model.CourseImages.First().Images" style="width:100%; height=100%;" />
+           </div>
+         <div class="col-6 ">
+            <h1 class="text-center my-5">@Model.CourseAuthor.FullName</h1>
+            <h1 class="text-center">@Model.Title</h1>
+            <h2 class="text-center my-5">@Model.Description</h2>
+            <h3 class="text-center">Price: @Model.Price</h3>
+         </div>
+       </div>
+
+</div>
+<a asp-action="Index" class="btn btn-outline-info d-block m-auto my-5">Back</a>
