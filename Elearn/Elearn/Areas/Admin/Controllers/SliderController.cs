@@ -37,5 +37,28 @@ namespace Elearn.Areas.Admin.Controllers
 
             return View(listSlider);
         }
+
+        [Area("Admin")]
+        public async Task<IActionResult> Detail(int? id)
+        {
+            if (id is null) return BadRequest();
+
+            Slider dbSlider = await _context.Sliders.FirstOrDefaultAsync(m => m.id == id);
+
+            if (dbSlider is null) return NotFound();
+
+            SliderDetailVM model = new()
+            {
+                Image = dbSlider.Image,
+                Logo = dbSlider.Logo,
+                Title = dbSlider.Title,
+                Description = dbSlider.Description,
+                CreateDate = dbSlider.CreateDate.ToString("dd-mm-yyyy"),
+                Status = dbSlider.Status
+            };
+
+            return View(model);
+
+        }
     }
 }
