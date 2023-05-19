@@ -1,4 +1,4 @@
-﻿@model CourseVM
+﻿@model IEnumerable<Course>
 @{
     ViewData["Title"] = "Index";
 }
@@ -63,7 +63,7 @@
     </div>
 </div>
 
-<div class="courses">
+<div class="courses" data-count="@ViewBag.count">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
@@ -105,8 +105,8 @@
                 <div class="featured_background" style="background-image:url(images/featured.jpg)"></div>
             </div>
         </div>
-        <div class="row courses_row">
-            <partial name="_CoursePartial" model="@Model.CourseAuthors"/>
+        <div class="row courses_row" id="parent-elem">
+            <partial name="_CoursePartial"/>
 
         </div>
          <div class="row my-2 d-flex justify-content-center">
@@ -131,5 +131,6 @@
 </div>
 
     @section Scripts{
-            <script src="~/js/courses.js"></script>
+           <script src="~/js/product.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     }

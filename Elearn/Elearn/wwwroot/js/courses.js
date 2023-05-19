@@ -16,6 +16,12 @@ $(document).ready(function()
 {
 	"use strict";
 
+	console.log("Course Page")
+
+
+
+
+
 	/* 
 
 	1. Vars and Inits
@@ -132,16 +138,8 @@ $(document).ready(function()
 		menuActive = false;
 	}
 
+
+
+
 });
 
-$(document).ready(function () {
-
-
-	let btn = $(".show-more-btn")
-
-	$(document).on("click", ".show-more-btn", function () {
-
-
-		console.log("aaaaa")
-	})
-});

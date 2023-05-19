@@ -1,0 +1,45 @@
+﻿@model List<NewsVM>
+@{
+    ViewData["Title"] = "Index";
+}
+<!-- Recent Sales Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-secondary text-center rounded p-4">
+        <div class="d-flex align-items-center justify-content-between mb-4">
+
+            <a type="button" class="btn btn-outline-success m-2">Create</a>
+        </div>
+        <div class="table-responsive">
+            <table class="table text-start align-middle table-bordered table-hover mb-0">
+                <thead>
+                    <tr class="text-white">
+
+                        <th scope="col">Image</th>
+                        <th scope="col">Author</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                            <tr>
+                                <td><img style="width:200px; height:130px;" src="~/images/@item.NewsImages.FirstOrDefault().Image" /></td>
+                                <td>@item.NewsAuthor.FullName</td>
+                                <td>@item.PostTitle</td>
+                                <td>
+                                    <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-info m-2">Detail</a>
+                                    <a type="button" class="btn btn-outline-warning m-2">Edit</a>
+                                    <a type="button" class="btn btn-outline-danger m-2">Delete</a>
+                                </td>
+                            </tr>
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<!-- Recent Sales End -->
+

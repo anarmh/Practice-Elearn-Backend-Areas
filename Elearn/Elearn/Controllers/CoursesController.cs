@@ -15,24 +15,20 @@ namespace Elearn.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            IEnumerable<CourseAuthor> courseAuthors = await _context.CourseAuthors.Where(m => !m.SoftDelete).ToListAsync();
-            IEnumerable<Course> courses = await _context.Courses.Include(m => m.CourseImages).Where(m => !m.SoftDelete).ToListAsync();
-            IEnumerable<CourseImage> courseImages = await _context.CourseImages.Where(m => !m.SoftDelete).ToListAsync();
-
-            CourseVM model = new()
-            {
-                CourseAuthors = courseAuthors,
-                CourseImages = courseImages,
-                Courses = courses
-            };
-            return View(model);
+            IEnumerable<Course> courses = await _context.Courses.Where(m => !m.SoftDelete).Include(m=>m.CourseImages).Include(m=>m.CourseAuthor).Take(3).ToListAsync();
+            int count = await _context.Courses.Where(m => !m.SoftDelete).CountAsync();
+            ViewBag.Count = count;
+            return View(courses);
         }
 
 
-
-        public async Task<IActionResult> ShowMoreOrLess()
+        [HttpGet]
+        public async Task<IActionResult> ShowMoreOrLess(int skip)
         {
-            return Ok();
+            IEnumerable<Course> courses = await _context.Courses.Where(m => !m.SoftDelete).Skip(skip).Take(3).ToListAsync();
+           
+           
+            return PartialView("_CoursePartial", courses);
         }
     }
 }

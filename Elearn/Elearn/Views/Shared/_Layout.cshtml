@@ -197,6 +197,7 @@ Copyright &copy;<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728
 <script src="plugins/video-js/video.min.js"></script>
 <script src="plugins/video-js/Youtube.min.js"></script>
 <script src="plugins/parallax-js-master/parallax.min.js"></script>
+ @await RenderSectionAsync("Scripts", required: false)
 <script src="js/custom.js"></script>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
@@ -204,7 +205,7 @@ Copyright &copy;<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-        @await RenderSectionAsync("Scripts", required: false)
+    
   gtag('config', 'UA-23581568-13');
 </script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v2b4487d741ca48dcbadcaf954e159fc61680799950996" integrity="sha512-D/jdE0CypeVxFadTejKGTzmwyV10c1pxZk/AqjJuZbaJwGMyNHY3q/mTPWqMUnFACfCTunhZUVcd4cV78dK1pQ==" data-cf-beacon='{"rayId":"7b60c373eb408ecc","version":"2023.3.0","b":1,"token":"cd0b4b3a733644fc843ef0b185f98241","si":100}' crossorigin="anonymous"></script>

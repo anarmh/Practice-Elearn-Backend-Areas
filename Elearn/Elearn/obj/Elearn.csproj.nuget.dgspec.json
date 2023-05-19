@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\Elearn.csproj": {}
+    "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\Elearn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\Elearn.csproj": {
+    "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\Elearn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\Elearn.csproj",
+        "projectUniqueName": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\Elearn.csproj",
         "projectName": "Elearn",
-        "projectPath": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\Elearn.csproj",
+        "projectPath": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\Elearn.csproj",
         "packagesPath": "C:\\Users\\Anar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\obj\\",
+        "outputPath": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anar\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ac3ZRDbzKeFjFNw7/259wZBphXmHtJJLIjdilhR1Mmg=",
+  "Hash": "ggQ042m5m+uPkReFfGnU7ECjm34vEwhN6zIyZvUOFBA=",
   "Source": "Elearn",
   "BasePath": "_content/Elearn",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Elearn\\wwwroot",
       "Source": "Elearn",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Elearn.styles.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Elearn.styles.css",
       "SourceId": "Elearn",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "Elearn.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Elearn.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Elearn.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Elearn.bundle.scp.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Elearn.bundle.scp.css",
       "SourceId": "Elearn",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "Elearn.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Elearn.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Elearn.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\.vscode\\launch.json",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\.vscode\\launch.json",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/.vscode/launch.json",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\.vscode\\launch.json"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\css\\bootstrap.min.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\css\\style.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\css\\style.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/css/style.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\img\\testimonial-1.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\img\\testimonial-1.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\img\\testimonial-2.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\img\\testimonial-2.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\img\\user.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\img\\user.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/img/user.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\img\\user.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\js\\main.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\js\\main.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/js/main.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\chart\\chart.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\chart\\chart.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/chart/chart.min.js",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\chart\\chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\easing\\easing.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/easing/easing.js",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\easing\\easing.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/tempusdominus/js/moment.min.js",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/tempusdominus/js/moment-timezone.min.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\waypoints\\links.php",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\waypoints\\links.php",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/waypoints/links.php",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_card.scss",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_close.scss",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_images.scss",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_root.scss",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_type.scss",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "admin/scss/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\about_1.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\about_1.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/about_1.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_1.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_1.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_1.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_2.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_2.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_2.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_3.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_3.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_3.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_4.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_4.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_4.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_5.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_5.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_5.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_6.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_6.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_6.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_7.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_7.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_7.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_8.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_8.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_8.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_9.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_9.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_9.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_author_2.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_author_2.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_author_2.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_author_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\course_author_3.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\course_author_3.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/course_author_3.jpg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course_author_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\elearn.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\elearn.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/elearn.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\images\\elearn.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\featured.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\featured.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/featured.jpg",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\featured.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\featured_author.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\featured_author.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/featured_author.jpg",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\images\\featured_author.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\home_logo.png",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\home_logo.png",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/home_logo.png",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\images\\home_logo.png"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\index.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\index.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/index.jpg",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\index.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\logo.png",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_1.svg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_1.svg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/milestone_1.svg",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\images\\milestone_1.svg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_2.svg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_2.svg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/milestone_2.svg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\milestone_2.svg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_3.svg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_3.svg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/milestone_3.svg",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\images\\milestone_3.svg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_4.svg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\milestone_4.svg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/milestone_4.svg",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\images\\milestone_4.svg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_1.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\news_1.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/news_1.jpg",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_2.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\news_2.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/news_2.jpg",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_3.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\news_3.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/news_3.jpg",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_4.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\news_4.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/news_4.jpg",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_5.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\news_5.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/news_5.jpg",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_6.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\news_6.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/news_6.jpg",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\news_7.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\news_7.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/news_7.jpg",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\images\\news_7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\play_big.png",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\play_big.png",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/play_big.png",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\images\\play_big.png"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_1.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_1.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/teacher_1.jpg",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_2.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_2.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/teacher_2.jpg",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_3.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_3.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/teacher_3.jpg",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_4.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_4.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/teacher_4.jpg",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_5.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_5.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/teacher_5.jpg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_6.jpg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\images\\teacher_6.jpg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "images/teacher_6.jpg",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teacher_6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\about.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\js\\about.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "js/about.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\js\\about.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\contact.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\js\\contact.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "js/contact.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\js\\contact.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\courses.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\js\\courses.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "js/courses.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\js\\courses.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\js\\custom.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\js\\jquery-3.2.1.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "js/jquery-3.2.1.min.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.2.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\js\\news.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\js\\news.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "js/news.js",
       "AssetKind": "All",
@@ -2652,10 +2652,27 @@
       "OriginalItemSpec": "wwwroot\\js\\news.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\easing\\easing.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\js\\product.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
+      "BasePath": "_content/Elearn",
+      "RelativePath": "js/product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\product.js"
+    },
+    {
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\easing\\easing.js",
+      "SourceId": "Elearn",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/easing/easing.js",
       "AssetKind": "All",
@@ -2669,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/font-awesome-4.7.0/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -2686,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.eot",
       "AssetKind": "All",
@@ -2703,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.svg",
       "AssetKind": "All",
@@ -2720,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.ttf",
       "AssetKind": "All",
@@ -2737,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.woff",
       "AssetKind": "All",
@@ -2754,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfont3e6e.woff2",
       "AssetKind": "All",
@@ -2771,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/font-awesome-4.7.0/fonts/fontawesome-webfontd41d.eot",
       "AssetKind": "All",
@@ -2788,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\animation.gsap.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\animation.gsap.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/greensock/animation.gsap.min.js",
       "AssetKind": "All",
@@ -2805,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\greensock\\animation.gsap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\ScrollToPlugin.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\ScrollToPlugin.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/greensock/ScrollToPlugin.min.js",
       "AssetKind": "All",
@@ -2822,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\greensock\\ScrollToPlugin.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\TimelineMax.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\TimelineMax.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/greensock/TimelineMax.min.js",
       "AssetKind": "All",
@@ -2839,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\greensock\\TimelineMax.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\TweenMax.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\TweenMax.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/greensock/TweenMax.min.js",
       "AssetKind": "All",
@@ -2856,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\greensock\\TweenMax.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/OwlCarousel2-2.2.1/animate.css",
       "AssetKind": "All",
@@ -2873,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/OwlCarousel2-2.2.1/owl.carousel.css",
       "AssetKind": "All",
@@ -2890,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/OwlCarousel2-2.2.1/owl.carousel.js",
       "AssetKind": "All",
@@ -2907,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/OwlCarousel2-2.2.1/owl.theme.default.css",
       "AssetKind": "All",
@@ -2924,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/OwlCarousel2-2.2.1/owl.video.play.png",
       "AssetKind": "All",
@@ -2941,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\parallax-js-master\\parallax.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\parallax-js-master\\parallax.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/parallax-js-master/parallax.min.js",
       "AssetKind": "All",
@@ -2958,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\parallax-js-master\\parallax.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\scrollmagic\\ScrollMagic.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\scrollmagic\\ScrollMagic.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/scrollmagic/ScrollMagic.min.js",
       "AssetKind": "All",
@@ -2975,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\scrollmagic\\ScrollMagic.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\video.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\video.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/video-js/video.min.js",
       "AssetKind": "All",
@@ -2992,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\video-js\\video.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\video-js.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\video-js.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/video-js/video-js.css",
       "AssetKind": "All",
@@ -3009,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\video-js\\video-js.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\Youtube.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\Youtube.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "plugins/video-js/Youtube.min.js",
       "AssetKind": "All",
@@ -3026,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\plugins\\video-js\\Youtube.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\about.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\about.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/about.css",
       "AssetKind": "All",
@@ -3043,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\about.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\about_responsive.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\about_responsive.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/about_responsive.css",
       "AssetKind": "All",
@@ -3060,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\about_responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\bootstrap.min.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/bootstrap4/bootstrap.min.css",
       "AssetKind": "All",
@@ -3077,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\bootstrap4\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\bootstrap.min.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/bootstrap4/bootstrap.min.js",
       "AssetKind": "All",
@@ -3094,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\bootstrap4\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\popper.js",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\popper.js",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/bootstrap4/popper.js",
       "AssetKind": "All",
@@ -3111,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\bootstrap4\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\contact.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\contact.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/contact.css",
       "AssetKind": "All",
@@ -3128,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\contact.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\contact_responsive.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\contact_responsive.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/contact_responsive.css",
       "AssetKind": "All",
@@ -3145,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\contact_responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\courses.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\courses.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/courses.css",
       "AssetKind": "All",
@@ -3162,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\courses.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\courses_responsive.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\courses_responsive.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/courses_responsive.css",
       "AssetKind": "All",
@@ -3179,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\courses_responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\main_styles.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\main_styles.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/main_styles.css",
       "AssetKind": "All",
@@ -3196,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\main_styles.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\news.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\news.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/news.css",
       "AssetKind": "All",
@@ -3213,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\news.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\news_responsive.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\news_responsive.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/news_responsive.css",
       "AssetKind": "All",
@@ -3230,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\styles\\news_responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\styles\\responsive.css",
+      "Identity": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\styles\\responsive.css",
       "SourceId": "Elearn",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anar\\Desktop\\AspNet Core\\Practice Elearn backend, Areas\\Elearn\\Elearn\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\wwwroot\\",
       "BasePath": "_content/Elearn",
       "RelativePath": "styles/responsive.css",
       "AssetKind": "All",
