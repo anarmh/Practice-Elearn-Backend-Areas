@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CqqDIC9mw8IWcAk9WCpdhQcYYayM9onEjxdio7PB8t4fJCWuZNyO0ATQ6u9e20rh7jJtOdjODnDULsU3jIcaNg==",
+  "dgSpecHash": "/acdr9zMWN3d89sgbo0y6psdC+mcjUyKVrKrFPPMLERwiMyk0kQIHCydm0qFG5dfQKsOY7XpPjx1PceM4B5ygA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anar\\Desktop\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\Elearn.csproj",
+  "projectFilePath": "D:\\Asp.net\\Practice-Elearn-Backend-Areas\\Elearn\\Elearn\\Elearn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Anar\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
